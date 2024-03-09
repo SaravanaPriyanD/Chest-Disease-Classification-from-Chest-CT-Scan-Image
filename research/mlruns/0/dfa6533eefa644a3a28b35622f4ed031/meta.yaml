@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Saravana/Learning/GenerativeAI/iNeuron/E2E_Projects/Chest-Disease-Classification-from-Chest-CT-Scan-Image/research/mlruns/0/dfa6533eefa644a3a28b35622f4ed031/artifacts
+end_time: 1709988124029
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dfa6533eefa644a3a28b35622f4ed031
+run_name: bemused-kit-632
+run_uuid: dfa6533eefa644a3a28b35622f4ed031
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1709988121286
+status: 3
+tags: []
+user_id: sarav
