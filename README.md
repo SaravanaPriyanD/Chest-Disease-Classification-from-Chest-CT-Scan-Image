@@ -60,4 +60,10 @@ RUN from bash terminal
 export MLFLOW_TRACKING_URI=https://dagshub.com/saravpriyan/MLFlow_Experiment_Demo.mlflow
 export MLFLOW_TRACKING_USERNAME=saravpriyan
 export MLFLOW_TRACKING_PASSWORD=xxxxxx - check in notes
+
+```bash
+### DVC cmd
+1) dvc init
+2) dvc repro
+3) dvc dag
 ```
